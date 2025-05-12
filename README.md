@@ -22,4 +22,4 @@
   <img src="https://img.shields.io/badge/Verified-Team-blue" alt="Verified Team">
 </p>
 
-<p><a href="https://www.xylotech.in" target="_blank">🌐 Visit Our Website</a> | <a href="https://github.com/XyloTech" target="_blank">📁 View GitHub Projects</a></p>
+<p><a href="https://xylotech.in" target="_blank">🌐 Visit Our Website</a> | <a href="https://github.com/XyloTech" target="_blank">📁 View GitHub Projects</a></p>
