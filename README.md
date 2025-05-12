@@ -29,7 +29,6 @@
 <p>
   <img src="https://img.shields.io/github/stars/XyloTech?style=social" alt="GitHub Stars">
   <img src="https://img.shields.io/badge/status-Top%20100%20Indian%20Startups-blueviolet" alt="Top Company">
-  <img src="https://img.shields.io/badge/Delivery-95%25%20On-Time-brightgreen" alt="On-Time Delivery">
   <img src="https://img.shields.io/badge/Verified-Team-blue" alt="Verified Team">
 </p>
 
